@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a right malignant.</title>
+            <author>May, Thomas, 1595-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88981</idno>
+            <idno type="STC">Wing M1400</idno>
+            <idno type="STC">Thomason E27_3</idno>
+            <idno type="STC">ESTC R8326</idno>
+            <idno type="EEBO-CITATION">99873280</idno>
+            <idno type="PROQUEST">99873280</idno>
+            <idno type="VID">154996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E27[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a right malignant.</title>
+                  <author>May, Thomas, 1595-1650.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas May.</note>
+                  <note>Annotation on Thomason copy: "Written by Mr. Thom: May"; "Feb: 1/2 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb n="1" facs="tcp:154996:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF A RIGHT MALIGNANT.</head>
+            <p>
+               <seg rend="decorInit">H</seg>EE is one that profeſſes love to the Proteſtant Religion; but hatred to all that Party through Europe, which maintaine it. He confeſſes that the Iriſh Re<g ref="char:EOLhyphen"/>bels were too blame for maſſa<g ref="char:EOLhyphen"/>cring
+200000. Proteſtants: yet he cannot chuſe but wiſh them good ſucceſſe againſt all that oppoſe them, eſpecially againſt the Scots. Indeed that is the Nation, which, of all other, he moſt hates, ever ſince they entred into Covenant with <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for maintaining and ſettting right the Reli<g ref="char:EOLhyphen"/>gion, Laws, and Liberties of both Kingdomes.
+<pb n="2" facs="tcp:154996:2"/> The Spaniard hee loves better then Engliſhmen heretofore uſed to doe, by reaſon of ſome hopes that hee has of their doing good in
+<hi>Ireland,</hi> and is much reconciled to the French, becauſe he thinks they will invade <hi>England.</hi> The Netherlanders out old friends and confederates, he would extreme<g ref="char:EOLhyphen"/>ly hate, but only that he thinks there is a faction among them, which are not very right to <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> He proteſts openly that he much condemns thoſe Lords and Commons who betraied their truſt, and left the Parliament, becauſe elſe he thinks this ſad War had not beene: but yet he hates all thoſe Lords and Commons, who continue here at <hi>Weſtminſter,</hi> only for doing that which he con<g ref="char:EOLhyphen"/>demns the other for not doing: and now he ho<g ref="char:EOLhyphen"/>nours thoſe, whom he confeſſes to be the cauſes of the Warre; and railes dayly againſt the other ſide, becauſe there is no Peace. Thoſe, that ſay he hates a Parliament, doe him great wrong; for he ſayes he loves a right Parliament, which is ſuch an one as claimes no power at all; but is a thing of bare advice, and l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe juriſdiction then any infe<g ref="char:EOLhyphen"/>riour Court of judicature in <hi>England.</hi> He loves his freedome, and would be loath to be a ſlave; but he verily beleeves that the King may lawfully take a<g ref="char:EOLhyphen"/>way whatſoever he hath, and diſpoſe of all mens
+<pb n="3" facs="tcp:154996:2"/> fortunes and perſons at his pleaſure. Hee does not think that the King of <hi>England</hi> is as abſolute a Monarch as any in the world: but he thinks that the King may doe what he will; and that nei<g ref="char:EOLhyphen"/>ther a Parliament, nor any humane power may reſiſt him in it. Theſe are his hourely diſputes, and yet ſometimes he will not underſtand them to be his own tenets: but for all this his Majeſty is not much beholding to him, for he ſwears that if he thought the King would do any thing againſt our Religion, Lawes and Liberties, hee would himſelfe (though a Parliament may not doe it) beare Armes againſt him, and verily beleeves that thoſe Lords &amp; Gentlemen, that now fight againſt the Parliament, would do the ſame; as if he thoght it more derogatory, or leſſe ſafe for his Majeſty to bee fairly kept in the right way by a lawfull con<g ref="char:EOLhyphen"/>vention of the Eſtates in Parliament, whoſe advice he ought to follow, then to be afterwards enforced to it by ſuch arms, as no man will doubt to call re<g ref="char:EOLhyphen"/>bellious; or as if it were not more lawfull for the Parlia. to ſtand now in the gap againſt the procee<g ref="char:EOLhyphen"/>dings of the Kings evill counſellors whilſt there is ſuch a gap legally and fairly open, then for private perſons to force open ſuch a gap herafter by rebel<g ref="char:EOLhyphen"/>lious <pb n="4" facs="tcp:154996:3"/> Armes. Hee acknowledges that Queene <hi>Elizabeth</hi> was a glorious Prince; but of all her actions, hee remembers none ſo well as that, when ſhee ſeized <hi>Wentworth</hi> in the Parliament Houſe, and committed him to priſon. He loves thoſe Members of the Houſe which are now gone away from it; and among others, thoſe who at firſt ſtood fiercely for the Commonwealth, and were ſince taken off by honours, and preferments from the King. But thoſe which have ſtill conti<g ref="char:EOLhyphen"/>nued conſtant to their firſt poſitions he diſparages and ſayes it was, becauſe the King would not take them off by ſuch honours and preferments; and that which they did, was done upon ſuch hopes: ſo that he honours thoſe which have apparently been corrupted to forſake the Parliament, and condemns thoſe which have not done it, becauſe he thinkes they would have done it; and has no reaſon to thinke ſo but by ſeeing the quite con<g ref="char:EOLhyphen"/>trary: It appears therefore that hee accounts de<g ref="char:EOLhyphen"/>ſerting the Parliament upon ſuch ends to bee a fault: for elſe he would not charge it by his con<g ref="char:EOLhyphen"/>jecture upon thoſe men here, whom by that conje<g ref="char:EOLhyphen"/>cture he labours to diſparage; and yet loves that
+<pb n="5" facs="tcp:154996:3"/> fault in the others: when hee wants actions to condemne the Parliament ſide for, he does it up<g ref="char:EOLhyphen"/>on his owne ſuppoſitions. He calls thoſe Hypo<g ref="char:EOLhyphen"/>crites, who lead a godly life: and though he thinks it a great uncharitableneſſe in thoſe godly men to cenſure him for living looſely; hee thinkes it no uncharity in himſelfe to cenſure them for profeſ<g ref="char:EOLhyphen"/>ſing godlineſſe: he pryes narrowly to finde faults on th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide, and publiſhes them with great eager<g ref="char:EOLhyphen"/>neſſe: but when hee findes vertuous actions in<g ref="char:EOLhyphen"/>ſtead of faults, hee ſayes they were done for ſini<g ref="char:EOLhyphen"/>ſter ends. When Generall
+<hi>Leſley</hi> was likely to take <hi>Newcaſtle,</hi> he was every where propheſying what cruelty the Scots would uſe in pillaging the Towne: but when it was apparent what extraor<g ref="char:EOLhyphen"/>dinary humanity the Scots ſhewed there, though it had coſt them a ſharpe aſſault to winne, he ſaid they did it for ſubtle ends, though he could name none, being equally unjuſt in his firſt falſe ſuppo<g ref="char:EOLhyphen"/>ſition, as in his laſt falſe aſperſion upon a good action; it being as impoſſible that any good deed on this ſide ſhould gaine his applauſe, as that any bad one at the other ſide ſhould incurre his cen<g ref="char:EOLhyphen"/>ſure. There are ſome ſinnes, which he acknow<g ref="char:EOLhyphen"/>ledges
+<pb n="6" facs="tcp:154996:4"/> to bee very uſuall at the other ſide, and thinks nothing of it: and yet the ſame ſinnes, when he findes them committed at this ſide, hee mightily condemnes and jeers; which is a tacite acknowledgement that the profeſſion of this ſide is more vertuous, and vice more repugnant to it then to the other: there is no vice can make him out of love with that ſide, which he now adheres to, though in other things he ſhews little conſtan<g ref="char:EOLhyphen"/>cy, for there are no poſitions held by the Parlia<g ref="char:EOLhyphen"/>ſide, which he now ſo much contradicts, as thoſe which himſelfe held foure yeares ago: nor no great perſons in State, whom hee then hated, as ſuppoſing them evill inſtruments in the government, whom hee does not now ap<g ref="char:EOLhyphen"/>plaud, though they continue the ſame men. But would you ſee more of his conſtancy? The barbarous cruelty of the Iriſh Rebels he deteſted much about November was three yeares, but within a yeare after hee became much reconciled to them, and did not only ſpare to condemn them himſelfe, but accounted it a great cruelty and un<g ref="char:EOLhyphen"/>charitableneſſe in the Proteſtants here to bee ſo bitter againſt them: but about a yeare after that, <pb n="7" facs="tcp:154996:4"/> they became friends, and thoſe Rebels and he both of a ſide: neither in reaſon, for favouring of thoſe Iriſh, can he be thought loyall to His Majeſty. For ſeeing it muſt needs be granted the King had the greateſt loſſe of al men, when ſo many of his own ſubjects and of his owne Religion were cruelly butchered: thoſe that took, and ſtill take the Kings loſſe moſt to heart, are the trueſt and moſt loyall ſubjects to him, and therefore the Parliament, who are ſtill enemies to thoſe Rebels, and deſirous to revenge their brethrens blood (which undoubted<g ref="char:EOLhyphen"/>ly cryes aloud to God) muſt be better Proteſtants and truer Subjects then thoſe that joyn with them, and fight or wiſh at the ſame ſide. The Paradoxes which he holds are very ſtrange; as namely, that thoſe Armies which fight againſt the Parliament, fight for the Proteſtant Religion; and yet that no Papiſts domeſticke or forreine but have reaſon to adhere to that ſide, rather then to the other. That a Parliament would deſtroy the liberties and privi<g ref="char:EOLhyphen"/>ledges of it ſelfe, with other paradoxes of the ſame kinde, of which nothing can ſo well enforme you as his owne diſcourſes: for unleſſe you take them from himſelf, they are too ſtrange for another man to beleeve, much more to invent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
